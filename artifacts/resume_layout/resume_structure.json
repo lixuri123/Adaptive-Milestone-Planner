@@ -1,0 +1,230 @@
+{
+  "source": "artifacts\\resume_layout\\resume_source.docx",
+  "paragraphs": [
+    {
+      "index": 0,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": null,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 3,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 4,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 5,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 6,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 7,
+      "style": "Normal",
+      "alignment": "None",
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 8,
+      "style": "Normal",
+      "alignment": "LEFT (0)",
+      "text": "",
+      "runs": [
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": null,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": null,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        },
+        {
+          "text": "",
+          "bold": null,
+          "italic": null,
+          "font": null,
+          "size_pt": 10.5,
+          "color": null
+        }
+      ]
+    }
+  ],
+  "tables": [],
+  "sections": [
+    {
+      "index": 0,
+      "page_width_twips": 11906,
+      "page_height_twips": 16838,
+      "top_margin_twips": 1440,
+      "bottom_margin_twips": 1440,
+      "left_margin_twips": 1800,
+      "right_margin_twips": 1800,
+      "header_distance_twips": 851,
+      "footer_distance_twips": 992
+    }
+  ],
+  "inline_shapes": 0
+}

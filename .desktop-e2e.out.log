@@ -1,0 +1,34 @@
+
+> hermes@0.17.0 dev
+> concurrently -k "npm:dev:renderer" "npm:dev:electron"
+
+[dev:renderer] 
+[dev:renderer] > hermes@0.17.0 dev:renderer
+[dev:renderer] > node scripts/assert-root-install.mjs && vite --host 127.0.0.1 --port 5174
+[dev:renderer] 
+[dev:electron] 
+[dev:electron] > hermes@0.17.0 dev:electron
+[dev:electron] > wait-on http://127.0.0.1:5174 && node scripts/bundle-electron-main.mjs --dev && cross-env XCURSOR_SIZE=24 HERMES_DESKTOP_DEV_SERVER=http://127.0.0.1:5174 electron .
+[dev:electron] 
+[dev:renderer] 
+[dev:renderer]   [32m[1mVITE[22m v8.1.0[39m  [2mready in [0m[1m508[22m[2m[0m ms[22m
+[dev:renderer] 
+[dev:renderer]   [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5174[22m/[39m
+[dev:electron] 
+[dev:electron]   dist\electron-main.mjs  472.5kb
+[dev:electron] 
+[dev:electron] Done in 60ms
+[dev:electron] bundled D:\agent\hermes-agent\apps\desktop\dist\electron-main.mjs (dev)
+[dev:electron] 
+[dev:electron]   dist\electron-preload.js  16.5kb
+[dev:electron] 
+[dev:electron] Done in 8ms
+[dev:electron] bundled D:\agent\hermes-agent\apps\desktop\dist\electron-preload.js (dev)
+[dev:electron] 
+[dev:electron] [hermes] install-stamp.json found at D:\agent\hermes-agent\node_modules\electron\dist\resources\install-stamp.json , but parsing failed with Error: ENOENT: no such file or directory, open 'D:\agent\hermes-agent\node_modules\electron\dist\resources\install-stamp.json'
+[dev:electron] [hermes] install-stamp.json found at D:\agent\hermes-agent\apps\desktop\build\install-stamp.json , but parsing failed with Error: ENOENT: no such file or directory, open 'D:\agent\hermes-agent\apps\desktop\build\install-stamp.json'
+[dev:electron] ����: ϵͳ�Ҳ���ָ����ע������ֵ��
+[dev:electron] (electron) 'console-message' arguments are deprecated and will be removed. Please use Event<WebContentsConsoleMessageEventParams> object instead.
+[dev:electron] npm run dev:electron exited with code 0
+--> Sending SIGTERM to other processes..
+[dev:renderer] npm run dev:renderer exited with code 1

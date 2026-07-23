@@ -1,0 +1,11 @@
+name: personal_planner
+version: 1.0.0
+description: "Profile-scoped adaptive milestone planning agent with sparse-routed domain analysis, validated P50/P90 work packages, capacity-aware daily targets, supervised rolling replans, durable reminders, optional exact-time schedules, safe calendar integration, and Cron automation."
+author: Hermes community
+kind: standalone
+platforms:
+  - linux
+  - macos
+  - windows
+provides_tools:
+  - personal_planner

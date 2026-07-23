@@ -1,0 +1,689 @@
+{
+  "shapes": [
+    {
+      "index": 0,
+      "name": "图片 1",
+      "description": "1",
+      "x_in": 5.412,
+      "y_in": -0.704,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 0.88,
+      "height_in": 1.174,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": "media/image2.jpeg",
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 1,
+      "name": "文本框 16",
+      "description": null,
+      "x_in": -1.037,
+      "y_in": -0.421,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 1.507,
+      "height_in": 0.499,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "姓名：李旭日",
+      "runs": [
+        {
+          "text": "姓名：李旭日",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "333F50",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "文本框 27",
+      "description": null,
+      "x_in": 1.46,
+      "y_in": -0.668,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 2.479,
+      "height_in": 0.59,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "Agent开发",
+      "runs": [
+        {
+          "text": "A",
+          "font_ascii": "Times New Roman",
+          "font_east_asia": null,
+          "size_pt": 22.0,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "gent",
+          "font_ascii": "Times New Roman",
+          "font_east_asia": null,
+          "size_pt": 22.0,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "开发",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": 22.0,
+          "color": null,
+          "bold": false
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "文本框 87",
+      "description": null,
+      "x_in": -0.997,
+      "y_in": -0.086,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 5.299,
+      "height_in": 0.715,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "手机：15829368085    邮箱：2832502076@qq.com",
+      "runs": [
+        {
+          "text": "手机",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "：",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "15829368085",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "    邮箱：2832502076@qq.com",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "矩形 29",
+      "description": null,
+      "x_in": -1.502,
+      "y_in": -0.988,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 8.877,
+      "height_in": 0.208,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 5,
+      "name": "文本框 123",
+      "description": null,
+      "x_in": -0.828,
+      "y_in": 0.608,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 7.692,
+      "height_in": 1.239,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "2022.09-2026.06                       陕西师范大学                          计算机科学与技术（本科）⚫ 成绩排名：前30%                绩点：3.60/4⚫ 主修课程：数据结构、操作系统、计算机网络、人工智能",
+      "runs": [
+        {
+          "text": "2022.09-2026.06                       陕西师范大学                          计算机科学与技术（本科）",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "1F4E79",
+          "bold": true
+        },
+        {
+          "text": "⚫",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": " 成绩排名",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "：前30%                ",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "绩点",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "：3.60/4",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "⚫",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": " 主修课程",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "：数据结构、操作系统、计算机网络、人工智能",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "name": "矩形 54",
+      "description": null,
+      "x_in": -0.094,
+      "y_in": 0.3,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 1.031,
+      "height_in": 0.372,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "教育背景",
+      "runs": [
+        {
+          "text": "教育背景",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 14.0,
+          "color": "333F50",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "name": "任意多边形 17",
+      "description": null,
+      "x_in": -0.711,
+      "y_in": 0.414,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 0.263,
+      "height_in": 0.183,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 8,
+      "name": "组合 6",
+      "description": null,
+      "x_in": -0.832,
+      "y_in": 0.319,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 7.549,
+      "height_in": 0.349,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 9,
+      "name": "矩形 30",
+      "description": null,
+      "x_in": -1.502,
+      "y_in": 10.144,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 8.877,
+      "height_in": 0.208,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 10,
+      "name": "文本框 49",
+      "description": null,
+      "x_in": -0.817,
+      "y_in": 6.849,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 7.482,
+      "height_in": 1.663,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "⚫ 语言：Python， C++，C，常用类库和 Python 集合框架。⚫ 数据库：熟悉 MySQL，如基本数据结构、事务等。⚫ 中间件：熟悉 Redis等相关中间件，有相关使用经验。⚫ 其他：了解 Linux 常用命令和 Git 的使用。                            ",
+      "runs": [
+        {
+          "text": "⚫ 语言：Python， C++，C",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "，",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "常用类库和 Python 集合框架。",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "⚫ 数据库：熟悉 MySQL，如基本数据结构、事务等。",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "⚫ 中间件：熟悉 Redis等相关中间件，有相关使用经验。",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "⚫ 其他：了解 Linux 常用命令和 Git 的使用。",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "  ",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": true
+        },
+        {
+          "text": "           ",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "3B3838",
+          "bold": false
+        },
+        {
+          "text": "               ",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 10.5,
+          "color": "525252",
+          "bold": false
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "name": "组合 6",
+      "description": null,
+      "x_in": -0.808,
+      "y_in": 0.302,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 7.578,
+      "height_in": 0.349,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 12,
+      "name": "任意多边形 181",
+      "description": null,
+      "x_in": -0.706,
+      "y_in": 0.358,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 0.226,
+      "height_in": 0.194,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 13,
+      "name": "任意多边形 22",
+      "description": null,
+      "x_in": -0.694,
+      "y_in": 6.42,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 0.218,
+      "height_in": 0.217,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 14,
+      "name": "组合 6",
+      "description": null,
+      "x_in": -0.834,
+      "y_in": 6.356,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 7.54,
+      "height_in": 0.349,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "",
+      "runs": []
+    },
+    {
+      "index": 15,
+      "name": "矩形 48",
+      "description": null,
+      "x_in": -0.178,
+      "y_in": 6.339,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 1.031,
+      "height_in": 0.396,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "专业技能",
+      "runs": [
+        {
+          "text": "专业技能",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 14.0,
+          "color": "333F50",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "name": "矩形 60",
+      "description": null,
+      "x_in": -0.085,
+      "y_in": 0.263,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 1.018,
+      "height_in": 0.396,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "项目经历",
+      "runs": [
+        {
+          "text": "项目",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 14.0,
+          "color": "333F50",
+          "bold": true
+        },
+        {
+          "text": "经历",
+          "font_ascii": "微软雅黑",
+          "font_east_asia": "微软雅黑",
+          "size_pt": 14.0,
+          "color": "333F50",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "name": "文本框 173",
+      "description": null,
+      "x_in": -0.81,
+      "y_in": 0.727,
+      "x_relative": "column",
+      "y_relative": "paragraph",
+      "width_in": 7.576,
+      "height_in": 5.525,
+      "behind_doc": "0",
+      "wrap": [
+        "wrapNone"
+      ],
+      "image_target": null,
+      "text": "Adaptive Milestone Planner  技术栈：Python、SQLite、LLM Structured Output、JSON Schema、Multi-Agent Routing、DAG、Human-in-the-loop、Cron基于 Hermes 插件体系设计多专家 Agent 工作流，通过稀疏路由按需调用 Research、Career、Communication 专家，将通知、研究任务和求职目标转化为结构化 WorkPackage；利用 JSON Schema 与业务校验约束任务依赖、完成标准、截止时间及 P50/P90 工作量，降低模型幻觉和非法输出进入执行链路的风险。实现确定性里程碑规划器：基于DAG拓扑依赖、任务可拆分性、风险等级、内外部截止时间与每日可用容量，将长期任务分配为 1–42 天的日级目标；自动扣除日历占用、固定事项、恢复时间和容量缓冲，并在资源不足时输出延期、缩减范围或增加容量等可审批方案。构建执行反馈与自适应重规划闭环，支持 done / partial / blocked / skipped 等 check-in；根据实际耗时动态修正剩余工作量，并在同领域积累至少 3 个样本后，使用中位数对估时进行 0.75–1.5 倍有界校准，偏差发生时生成新的 replan 草案而非静默覆盖原计划。设计可审计、Human-in-the-loop 的状态系统，使用 SQLite 持久化事件来源、专家输出、WorkPackage、计划版本、审批记录、Token/成本和执行反馈；实现计划确认/替换的原子状态迁移、提醒去重及两阶段投递回执，并通过有界临时上下文接入 Agent 对话，避免破坏长期会话的 Prompt Cache。编写并实际通过 44 项单元及集成测试，覆盖结构化输出校验、依赖环检测、稀疏路由、容量不足、计划确定性、审批替换、部分完成后的重规划、提醒合并与运行时上下文隔离等关键场景。",
+      "runs": [
+        {
+          "text": "Adaptive Milestone Planner",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": 10.5,
+          "color": null,
+          "bold": true
+        },
+        {
+          "text": " ",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": 10.5,
+          "color": null,
+          "bold": true
+        },
+        {
+          "text": " ",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "技术栈",
+          "font_ascii": "Times New Roman",
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": true
+        },
+        {
+          "text": "：Python、SQLite、LLM Structured Output、JSON Schema、Multi-Agent Routing、DAG、Human-in-the-loop、Cron",
+          "font_ascii": "Times New Roman",
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "基于 Hermes 插件体系设计多专家 Agent 工作流，通过稀疏路由按需调用 Research、Career、Communication 专家，将通知、研究任务和求职目标转化为结构化 ",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "WorkPackage",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "；利用 JSON Schema 与业务校验约束任务依赖、完成标准、截止时间及 P50/P90 工作量，降低模型幻觉和非法输出进入执行链路的风险。",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "实现确定性里程碑规划器：基于DAG拓扑依赖、任务可拆分性、风险等级、内外部截止时间与每日可用容量，将长期任务分配为 1–42 天的日级目标；自动扣除日历占用、固定事项、恢复时间和容量缓冲，并在资源不足时输出延期、缩减范围或增加容量等可审批方案。",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "构建执行反馈与自适应重规划闭环，支持 ",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "done / partial / blocked / skipped",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": " 等 check-in；根据实际耗时动态修正剩余工作量，并在同领域积累至少 3 个样本后，使用中位数对估时进行 0.75–1.5 倍有界校准，偏差发生时生成新的 replan 草案而非静默覆盖原计划。",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "设计可审计、Human-in-the-loop 的状态系统，使用 SQLite 持久化事件来源、专家输出、WorkPackage、计划版本、审批记录、Token/成本和执行反馈；实现计划确认/替换的原子状态迁移、提醒去重及两阶段投递回执，并通过有界临时上下文接入 Agent 对话，避免破坏长期会话的 Prompt Cache。",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        },
+        {
+          "text": "编写并实际通过 44 项单元及集成测试，覆盖结构化输出校验、依赖环检测、稀疏路由、容量不足、计划确定性、审批替换、部分完成后的重规划、提醒合并与运行时上下文隔离等关键场景。",
+          "font_ascii": null,
+          "font_east_asia": null,
+          "size_pt": null,
+          "color": null,
+          "bold": false
+        }
+      ]
+    }
+  ]
+}

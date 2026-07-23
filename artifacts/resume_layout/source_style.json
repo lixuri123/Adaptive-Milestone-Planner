@@ -1,0 +1,20 @@
+{
+  "input": "D:\\agent\\hermes-agent\\artifacts\\resume_layout\\resume_source.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 0,
+  "direct_paragraph_formatting_paragraphs": 1,
+  "heading_like_paragraphs_not_heading_style": [],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 2,
+        "text": "",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

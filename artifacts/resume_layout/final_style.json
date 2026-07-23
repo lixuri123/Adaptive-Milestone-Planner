@@ -1,0 +1,125 @@
+{
+  "input": "D:\\agent\\hermes-agent\\artifacts\\resume_layout\\\u674e\u65ed\u65e5-Agent\u5f00\u53d1\u5b9e\u4e60-\u7b80\u5386.docx",
+  "fonts_by_char_count": {
+    "Arial": 1089
+  },
+  "direct_run_formatting_runs": 29,
+  "direct_paragraph_formatting_paragraphs": 19,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 1,
+      "text": "\u6559\u80b2\u80cc\u666f",
+      "style": "Normal"
+    },
+    {
+      "para_index": 2,
+      "text": "2022.09\u20132026.06\t\u9655\u897f\u5e08\u8303\u5927\u5b66\t\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\uff08\u672c\u79d1\uff09",
+      "style": "Normal"
+    },
+    {
+      "para_index": 3,
+      "text": "\u6210\u7ee9\u6392\u540d\uff1a\u524d 30%  \uff5c  \u7ee9\u70b9\uff1a3.60/4  \uff5c  \u4e3b\u4fee\u8bfe\u7a0b\uff1a\u6570\u636e\u7ed3\u6784\u3001\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u4eba\u5de5\u667a\u80fd",
+      "style": "Normal"
+    },
+    {
+      "para_index": 4,
+      "text": "\u9879\u76ee\u7ecf\u5386",
+      "style": "Normal"
+    },
+    {
+      "para_index": 5,
+      "text": "Adaptive Milestone Planner",
+      "style": "Normal"
+    },
+    {
+      "para_index": 12,
+      "text": "\u4e13\u4e1a\u6280\u80fd",
+      "style": "Normal"
+    },
+    {
+      "para_index": 13,
+      "text": "\u7f16\u7a0b\u8bed\u8a00\u4e0e\u6846\u67b6\uff1aPython\u3001C++\u3001C\uff0c\u4e86\u89e3\u5e38\u7528 Python \u7c7b\u5e93\u4e0e\u5f00\u53d1\u6846\u67b6\u3002",
+      "style": "List Bullet"
+    },
+    {
+      "para_index": 14,
+      "text": "\u6570\u636e\u4e0e\u4e2d\u95f4\u4ef6\uff1a\u719f\u6089 MySQL \u57fa\u7840\u6570\u636e\u7ed3\u6784\u3001\u4e8b\u52a1\u7b49\uff0c\u5177\u6709 Redis \u4f7f\u7528\u7ecf\u9a8c\u3002",
+      "style": "List Bullet"
+    },
+    {
+      "para_index": 15,
+      "text": "\u5de5\u7a0b\u5de5\u5177\uff1a\u4e86\u89e3 Linux \u5e38\u7528\u547d\u4ee4\u548c Git \u7248\u672c\u63a7\u5236\u3002",
+      "style": "List Bullet"
+    },
+    {
+      "para_index": 16,
+      "text": "\u674e\u65ed\u65e5",
+      "style": "Normal"
+    },
+    {
+      "para_index": 17,
+      "text": "Agent \u5f00\u53d1",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 1,
+        "text": "\u6559\u80b2\u80cc\u666f",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "text": "2022.09\u20132026.06\t\u9655\u897f\u5e08\u8303\u5927\u5b66\t\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\uff08\u672c\u79d1\uff09",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "text": "\u6210\u7ee9\u6392\u540d\uff1a\u524d 30%  \uff5c  \u7ee9\u70b9\uff1a3.60/4  \uff5c  \u4e3b\u4fee\u8bfe\u7a0b\uff1a\u6570\u636e\u7ed3\u6784\u3001\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u4eba\u5de5\u667a\u80fd",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "text": "\u9879\u76ee\u7ecf\u5386",
+        "style": "Normal"
+      },
+      {
+        "para_index": 5,
+        "text": "Adaptive Milestone Planner",
+        "style": "Normal"
+      }
+    ],
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "\u6559\u80b2\u80cc\u666f",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "2022.09\u20132026.06",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "\t\u9655\u897f\u5e08\u8303\u5927\u5b66",
+        "style": "Normal"
+      },
+      {
+        "para_index": 2,
+        "run_text": "\t\u8ba1\u7b97\u673a\u79d1\u5b66\u4e0e\u6280\u672f\uff08\u672c\u79d1\uff09",
+        "style": "Normal"
+      },
+      {
+        "para_index": 3,
+        "run_text": "\u6210\u7ee9\u6392\u540d\uff1a",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}
